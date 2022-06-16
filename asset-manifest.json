@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/clancy-jeremiah/static/css/main.1c790786.css",
+    "main.js": "/clancy-jeremiah/static/js/main.03a3dfe7.js",
+    "static/media/social-media-api.png": "/clancy-jeremiah/static/media/social-media-api.25d8ace50711d93735dd.png",
+    "static/media/weather-api.png": "/clancy-jeremiah/static/media/weather-api.dd424668f8ddf1cbeef0.png",
+    "static/media/book-search.png": "/clancy-jeremiah/static/media/book-search.85b207f66aba9bd90b2c.png",
+    "static/media/run-buddy.png": "/clancy-jeremiah/static/media/run-buddy.a4bd0907d3fbf99e12d2.png",
+    "static/media/clancy-resume.pdf": "/clancy-jeremiah/static/media/clancy-resume.3ebceafd6d1e0ea0ded7.pdf",
+    "static/media/pethub.png": "/clancy-jeremiah/static/media/pethub.1d6215ccfd07f3328289.png",
+    "static/media/jeremiah-bitmoji-fullbody.jpg": "/clancy-jeremiah/static/media/jeremiah-bitmoji-fullbody.1a3246cf62272b621e9c.jpg",
+    "static/media/client-graduate.png": "/clancy-jeremiah/static/media/client-graduate.689e5f4bfd92779a1c3d.png",
+    "static/media/client-teacher.png": "/clancy-jeremiah/static/media/client-teacher.22b330acf3477fecdb2c.png",
+    "static/media/client-author.png": "/clancy-jeremiah/static/media/client-author.66c33e07cb9b78f7df9a.png",
+    "static/media/computer-wave.png": "/clancy-jeremiah/static/media/computer-wave.720987477a3a099dff69.png",
+    "static/media/budget-tracker.png": "/clancy-jeremiah/static/media/budget-tracker.a19edbbb8519a3440ba3.png",
+    "static/media/taskmaster-pro.png": "/clancy-jeremiah/static/media/taskmaster-pro.423bb54c4e087d2fdd5e.png",
+    "static/media/blue-purple.jpg": "/clancy-jeremiah/static/media/blue-purple.7fe6e0645294802c9989.jpg",
+    "index.html": "/clancy-jeremiah/index.html",
+    "main.1c790786.css.map": "/clancy-jeremiah/static/css/main.1c790786.css.map",
+    "main.03a3dfe7.js.map": "/clancy-jeremiah/static/js/main.03a3dfe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c790786.css",
+    "static/js/main.03a3dfe7.js"
+  ]
+}
